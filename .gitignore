@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+split_dataset/
+training_model.keras
+__pycache__/
