@@ -124,17 +124,4 @@ The application will open automatically in your web browser.
 
 ---
 
-## 📸 Screenshots
 
-Add screenshots of:
-
-* Home Page
-* Image Upload
-* Prediction Result
-* Disease Information
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to fork this repository, create a
